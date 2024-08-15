@@ -4,11 +4,21 @@
 The Static Currency Converter is a simple WPF application developed in C# that allows users to convert a specified amount from one currency to another. The application supports several predefined currencies, and users can easily adjust the conversion rates in the source code.
 
 <h2>Features</h2>
- **Input Amount:** Enter the amount you wish to convert.  
- **Select Currency:** Choose the currency from which the amount is being converted and the currency to which it should be converted.  
- **Supported Currencies:** INR, USD, EUR, POUND, RIYAL.  
- **Convert Button:** Converts the entered amount from the selected source currency to the desired target currency.  
- **Clear Button:** Clears all input fields, allowing you to start a new conversion.
+ * **Input Amount:**  
+  Enter the amount you wish to convert.
+
+* **Select Currency:**  
+  Choose the currency from which the amount is being converted and the currency to which it should be converted.
+
+* **Supported Currencies:**  
+  INR, USD, EUR, POUND, RIYAL.
+
+* **Convert Button:**  
+  Converts the entered amount from the selected source currency to the desired target currency.
+
+* **Clear Button:**  
+  Clears all input fields, allowing you to start a new conversion.
+
 
 
 <h2>Usage</h2>
